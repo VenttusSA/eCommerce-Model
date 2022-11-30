@@ -1,2 +1,3 @@
-# Projeto_EComerce
-Trabalho de Desenvolvimento Web Cliente
+eCommerce
+
+Simple model (not yet finished) of an ecommerce, fully customizable to your liking, with no backend yet
